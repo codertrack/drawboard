@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/select_blue.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/select_blue.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_sb_info.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_sb_info.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_recomm_play.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_recomm_play.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/pic_tupian.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/pic_tupian.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_settings_land.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_settings_land.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_vp_bar_toview.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_vp_bar_toview.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/smssdk_search_icon.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/smssdk_search_icon.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/smssdk_input_bg_normal.9.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/smssdk_input_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_video_item_likes_land.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_video_item_likes_land.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_profile_conf.jpg",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_profile_conf.jpg"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/select_beijing.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/select_beijing.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_show_less.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_show_less.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_img_cancel.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/ssdk_oks_img_cancel.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/smssdk_back_arrow2.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/smssdk_back_arrow2.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/smssdk_dialog_back.9.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/smssdk_dialog_back.9.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/select_xian1.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/select_xian1.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_video_fluency_hd_sel_land.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_video_fluency_hd_sel_land.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_xiangpi.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/menu_xiangpi.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_video_fluency_hd_land.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_video_fluency_hd_land.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_video_center_setting.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_video_center_setting.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_ve_share.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_ve_share.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_raw_video_more.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_raw_video_more.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_light_blue_point.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/ssdk_oks_light_blue_point.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_plat_facebook_icon.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_plat_facebook_icon.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_title_back.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/ssdk_oks_title_back.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/pic_baocun.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/pic_baocun.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_video_fluency_fl_sel_land.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_video_fluency_fl_sel_land.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/select_green.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/select_green.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_auth_follow_cb_chd.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/ssdk_oks_auth_follow_cb_chd.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_back_arr.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/ssdk_back_arr.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_fanhui_press.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/menu_fanhui_press.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/pic_daochu.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/pic_daochu.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_photo_crop_bound.9.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_photo_crop_bound.9.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_vp_sb_bg.9.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_vp_sb_bg.9.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_start.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_start.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_ve_from.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_ve_from.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/select_yellow.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/select_yellow.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/pic_sucai.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/pic_sucai.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_video_commentate.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_video_commentate.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_follow.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_follow.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_video_fluency_sd_land.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_video_fluency_sd_land.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_start_gray.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_start_gray.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_video_item_likes_liked_land.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_video_item_likes_liked_land.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_video_fluency_or_land.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_video_fluency_or_land.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_myvideo_land.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_myvideo_land.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_comments_back_land.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_comments_back_land.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_comments.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_comments.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_photo_picker_alb_land.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_photo_picker_alb_land.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_video_detail_like.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_video_detail_like.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/delete.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/delete.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_logout.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_logout.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_logo_sinaweibo.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/ssdk_oks_logo_sinaweibo.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_xiangpi_press.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/menu_xiangpi_press.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_pull_to_refresh.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_pull_to_refresh.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/smssdk_back_arrow.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/smssdk_back_arrow.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_photo_picker_bg_land.9.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_photo_picker_bg_land.9.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_video_item_comms_land.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_video_item_comms_land.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_ve_add_an.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_ve_add_an.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_show_more.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_show_more.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_sb_play.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_sb_play.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_hanhui.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/menu_hanhui.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_pin.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/ssdk_oks_pin.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_share_online_video.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_share_online_video.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/select_red.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/select_red.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_logo_facebook.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/ssdk_oks_logo_facebook.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_vp_bar_fullscr.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_vp_bar_fullscr.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/pic_paizhao.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/pic_paizhao.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_play.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/menu_play.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_plat_wechat_timeline_icon.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_plat_wechat_timeline_icon.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_plat_sina_icon.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_plat_sina_icon.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_default_user_icon.jpg",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_default_user_icon.jpg"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_click_for_more.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_click_for_more.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_logo_wechatmoments.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/ssdk_oks_logo_wechatmoments.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/select_white.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/select_white.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_plat_twitter_icon.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_plat_twitter_icon.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_ve_add_narration.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_ve_add_narration.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_auth_follow_cb_unc.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/ssdk_oks_auth_follow_cb_unc.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_video_detail_dislike.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_video_detail_dislike.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/record_done.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/record_done.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_plat_wechat_session_icon.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_plat_wechat_session_icon.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_video_fluency_fl_land.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_video_fluency_fl_land.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_login_input_password.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_login_input_password.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/smssdk_input_bg_special_focus.9.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/smssdk_input_bg_special_focus.9.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_tick.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_tick.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_auth_title_back.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_video_fluency_sd_sel_land.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_video_fluency_sd_sel_land.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_title_back_base.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_title_back_base.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_clear.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/menu_clear.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_pic.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/menu_pic.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_back_arr_blue_base.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_back_arr_blue_base.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_photo_picker_cam_land.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_photo_picker_cam_land.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_edittext_back.9.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/ssdk_oks_edittext_back.9.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_back_arr.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_back_arr.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_vp_play_base.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_vp_play_base.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_dislike.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_dislike.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/select_fen.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/select_fen.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_vp_sb_bg_progress.9.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_vp_sb_bg_progress.9.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_play_video_base.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_play_video_base.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_clear_press.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/menu_clear_press.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_ve_add_vn.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_ve_add_vn.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_localvideo_land.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_localvideo_land.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_edit_share_content_base.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_edit_share_content_base.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/smssdk_input_bg_special_normal.9.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/smssdk_input_bg_special_normal.9.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_logo_wechat.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/ssdk_oks_logo_wechat.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_commentate_bound.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_commentate_bound.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_plat_tencent_icon.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_plat_tencent_icon.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_sb_close_base.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_sb_close_base.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/smssdk_sharesdk_icon.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/smssdk_sharesdk_icon.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_logo.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/ssdk_logo.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_show_oks.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_show_oks.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_ve_to.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_ve_to.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_blue_point.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/ssdk_oks_blue_point.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_fanhui.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/menu_fanhui.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/select_xian3.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/select_xian3.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_sb_share.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_sb_share.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_login_input_nick.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_login_input_nick.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_download_land.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_download_land.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_auth_title_back.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/ssdk_oks_auth_title_back.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/select_xian2.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/select_xian2.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_audio_commentate.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_audio_commentate.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_like.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_like.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/background.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/background.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_share_video.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_share_video.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/smssdk_input_bg_focus.9.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/smssdk_input_bg_focus.9.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_vp_stop_base.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_vp_stop_base.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_video_fluency_or_sel_land.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_video_fluency_or_sel_land.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/record_run.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/record_run.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_ic_menu_rotate.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_ic_menu_rotate.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_vp_sb_thumb.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_vp_sb_thumb.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/smssdk_clear_search.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/smssdk_clear_search.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_pen_press.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/menu_pen_press.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_pic_background.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/menu_pic_background.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/back.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/back.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_video_item_views_land.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_video_item_views_land.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_pen.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/menu_pen.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/back_white.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/back_white.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_btn_back_nor.9.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/ssdk_oks_btn_back_nor.9.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/smssdk_dialog_bg.9.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/smssdk_dialog_bg.9.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_title_div.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/ssdk_title_div.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/smssdk_cl_divider.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/smssdk_cl_divider.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_pause_video_base.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_pause_video_base.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/srec_profile_conf_port.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/srec_profile_conf_port.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_title_shadow.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xhdpi/ssdk_oks_title_shadow.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/back_white.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-mdpi/back_white.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/gev.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-mdpi/gev.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/back.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-mdpi/back.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/b1.jpg",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-mdpi/b1.jpg"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/b2.jpg",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-mdpi/b2.jpg"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/gex.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-mdpi/gex.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/geu.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-mdpi/geu.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/b3.jpg",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-mdpi/b3.jpg"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/gew.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-mdpi/gew.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/get.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-mdpi/get.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/b4.jpg",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-mdpi/b4.jpg"
+    }
+]

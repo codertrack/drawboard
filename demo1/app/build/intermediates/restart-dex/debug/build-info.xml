@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="6"
+    timestamp="1458024098421976000" >
+
+    <task
+        name="javac"
+        duration="127" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="26" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="/Users/wukai/Downloads/demo1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1_6ed6110bc3770c5ad9dcdb3e9501b10501784ad7/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/wukai/Downloads/demo1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7_b663c442cbbe5ee75db8b7d54bf628990b65e742/classes.dex"
+        type="DEX" />
+
+    <build timestamp="1458023950919092000" >
+        <artifact
+            location="/Users/wukai/Downloads/demo1/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="1458024098421976000" >
+        <artifact
+            location="/Users/wukai/Downloads/demo1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1_6ed6110bc3770c5ad9dcdb3e9501b10501784ad7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/wukai/Downloads/demo1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7_b663c442cbbe5ee75db8b7d54bf628990b65e742/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

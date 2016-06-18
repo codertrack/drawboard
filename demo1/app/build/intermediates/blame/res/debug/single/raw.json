@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/raw/srec_media",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/raw/srec_media"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/raw/smssdk_pydb",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/raw/smssdk_pydb"
+    }
+]

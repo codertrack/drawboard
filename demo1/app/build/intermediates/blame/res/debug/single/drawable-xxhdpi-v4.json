@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/menu_pen.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xxhdpi/menu_pen.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/menu_pen_press.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xxhdpi/menu_pen_press.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/menu_clear.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xxhdpi/menu_clear.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/xiaoshou.jpg",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xxhdpi/xiaoshou.jpg"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xxhdpi/background.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/delete.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xxhdpi/delete.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/menu_xiangpi.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xxhdpi/menu_xiangpi.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/menu_clear_press.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xxhdpi/menu_clear_press.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bar.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xxhdpi/bar.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/menu_xiangpi_press.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xxhdpi/menu_xiangpi_press.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/menu_fanhui_press.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xxhdpi/menu_fanhui_press.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/menu_pic.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xxhdpi/menu_pic.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/menu_play.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xxhdpi/menu_play.png"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/pic_meiyong.png",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/drawable-xxhdpi/pic_meiyong.png"
+    }
+]

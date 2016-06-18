@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/layout/item_pic.xml",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/layout/item_pic.xml"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/layout/activity_sucai_gongong.xml",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/layout/activity_sucai_gongong.xml"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/layout/item_grid.xml",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/layout/item_grid.xml"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/layout/pop_pencil.xml",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/layout/pop_pencil.xml"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/layout/pop_actions.xml",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/layout/pop_actions.xml"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/layout/activity_drawing.xml",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/layout/activity_drawing.xml"
+    },
+    {
+        "merged": "/Users/wukai/Downloads/demo1/app/build/intermediates/res/merged/debug/layout/activity_sucai.xml",
+        "source": "/Users/wukai/Downloads/demo1/app/src/main/res/layout/activity_sucai.xml"
+    }
+]
